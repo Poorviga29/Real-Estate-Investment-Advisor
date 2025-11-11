@@ -7,4 +7,3 @@ scikit-learn
 xgboost
 mlflow
 joblib
-sqlite3-binary
